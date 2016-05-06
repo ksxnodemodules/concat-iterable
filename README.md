@@ -7,7 +7,7 @@
 
 # Features
 
- * Traverse every elements of many iterables continually
+ * Traverse every elements of several iterables sequentially
 
 # Usage
 

@@ -1,6 +1,6 @@
 {
 	"name": "concat-iterable",
-	"description": "Traverse every elements of two iterable continually",
+	"description": "Traverse every elements of many iterables continually",
 	"version": "0.0.0",
 	"author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
 	"contributors": [

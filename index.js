@@ -2,9 +2,9 @@
 ((module) => {
 	'use strict';
 
-	var recursiveConstructor = require('x-iterable-utils/recursive-constructor.js');
-	var manySameElements = require('x-iterable-utils/many-same-elements.js');
-	var ConcatIterableSuper = require('x-iterable-utils/appx-super-class.js')(build, iterate);
+	var recursiveConstructor = require('x-iterable-utils/recursive-constructor');
+	var manySameElements = require('x-iterable-utils/many-same-elements');
+	var ConcatIterableSuper = require('x-iterable-utils/appx-super-class')(build, iterate);
 
 	class ConcatIterable extends ConcatIterableSuper {
 

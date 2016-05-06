@@ -1,0 +1,32 @@
+{
+	"name": "concat-iterable",
+	"description": "Traverse every elements of two iterable continually",
+	"version": "0.0.0",
+	"author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
+	"contributors": [
+		"Hoàng Văn Khải <hvksmr1996@gmail.com>"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ksxnodemodules/concat-iterable.git"
+	},
+	"engines": {
+		"node": ">=6.0.0"
+	},
+	"dependencies": {
+		"x-iterable-utils": "ksxnodemodules/x-iterable-utils#v1.0.0",
+		"x-iterable-base": ">=1.0.0 <2.0.0",
+		"simple-class-utils": ">=0.0.4 <2.0.0",
+		"simple-function-utils": ">=2.1.2 <3.0.0"
+	},
+	"main": "index.js",
+	"keywords": [
+		"concat-iterable",
+		"concat-iterator"
+	],
+	"bugs": {
+		"url": "https://github.com/ksxnodemodules/concat-iterable/issues"
+	},
+	"homepage": "https://github.com/ksxnodemodules/concat-iterable#readme"
+}

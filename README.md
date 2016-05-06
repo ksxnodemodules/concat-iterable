@@ -7,7 +7,7 @@
 
 # Features
 
- * Traverse to the "leaf" of a "tree"
+ * Traverse every elements of two iterable continually
 
 # Usage
 

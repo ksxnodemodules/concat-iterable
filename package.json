@@ -1,29 +1,30 @@
 {
-	"name": "concat-iterable",
-	"description": "Traverse every elements of several iterables sequentially or one iterable repeatedly",
-	"version": "1.0.2",
-	"author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
-	"contributors": [
-		"Hoàng Văn Khải <hvksmr1996@gmail.com>"
-	],
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/ksxnodemodules/concat-iterable.git"
-	},
-	"engines": {
-		"node": ">=6.0.0"
-	},
-	"dependencies": {
-		"x-iterable-utils": "ksxnodemodules/x-iterable-utils#v0.0.0"
-	},
-	"main": "index.js",
-	"keywords": [
-		"concat-iterable",
-		"concat-iterator"
-	],
-	"bugs": {
-		"url": "https://github.com/ksxnodemodules/concat-iterable/issues"
-	},
-	"homepage": "https://github.com/ksxnodemodules/concat-iterable#readme"
+  "name": "concat-iterable",
+  "description": "Traverse every elements of several iterables sequentially or one iterable repeatedly",
+  "version": "2.0.0",
+  "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
+  "contributors": [
+    "Hoàng Văn Khải <hvksmr1996@gmail.com>"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksxnodemodules/concat-iterable.git"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "x-iterable-utils": "ksxnodemodules/x-iterable-utils#v0.0.0",
+    "x-iterable-base": "^3.0.1"
+  },
+  "main": "index.js",
+  "keywords": [
+    "concat-iterable",
+    "concat-iterator"
+  ],
+  "bugs": {
+    "url": "https://github.com/ksxnodemodules/concat-iterable/issues"
+  },
+  "homepage": "https://github.com/ksxnodemodules/concat-iterable#readme"
 }

@@ -15,7 +15,7 @@
       var args = manySameElements(iterable, times)
       return args.length ? new ConcatIterable(...args) : []
     }
-	}
+  }
 
   module.exports = ConcatIterable
 

@@ -1,7 +1,7 @@
 {
   "name": "concat-iterable",
   "description": "Traverse every elements of several iterables sequentially or one iterable repeatedly",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
   "contributors": [
     "Hoàng Văn Khải <hvksmr1996@gmail.com>"
